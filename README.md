@@ -1,5 +1,5 @@
 # SEYF
-SEYF project aims to share easily your files. Uploaded files stay in RAM, there are not saved in any file system.
+SEYF project aims to **S**hare **E**asily **Y**our **F**iles. Uploaded files stay in RAM, there are not saved in any file system.
 
 You can configure the following parameters, at the beginning of the `seyf.py` script:
 ```
