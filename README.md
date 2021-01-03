@@ -9,7 +9,7 @@ USERNAME = 'user'                        # login for the authentication
 PASSWORD = 'password'                    # password for the authentication
 ```
 
-To deploy the website you can type the following on your terminal :
+To deploy the website you can type the following in your terminal :
 ```
 $ python3 seyf.py
 ```
